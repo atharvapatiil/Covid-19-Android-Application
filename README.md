@@ -1,5 +1,5 @@
 # Covid-19-Android-Application
-This is application is for hospital administartor to manage covid-19 patients in the hospital.
+This is application is for hospital administrators to manage covid-19 patients in the hospital.
 
 ## Features
 When you open the application you can see a dashboard.
